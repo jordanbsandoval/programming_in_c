@@ -1,0 +1,19 @@
+# Operadores aritmeticos
+*, /, %
++, -
+Nota: son evaluados de izquierda a derecha
+
+# Operadores de relacion
+<, >, <=, >=
+==, !=
+Nota: El valor numerico de una expresion de relacion, es: 1 si es verdadera 0 si es falsa
+
+# Operadores logicos
+&&
+||
+Nota: se evaluan de izquierda a derecha
+     *Por definicion, el valor numerico de una expresion Logica. 1 si es verdadera 0 si es falsa
+
+# Negacion
+!
+Nota: Convierte a un operando que no es cero en 0, y a un operando cero en 1. 

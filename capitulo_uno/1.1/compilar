@@ -1,0 +1,7 @@
+#!/bin/bash
+# Programa para compilar archivos en C. Con las siguientes flags:
+# -Wall: 
+# -Werror:
+# -Wextra:
+# -Wpedantic:
+gcc -Wall -Werror -Wextra -pedantic $1

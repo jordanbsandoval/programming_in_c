@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *main- Probando errores al tratar de convertir el archivo en binario
+ *main- Probando errores al tratar de compilar
  *Return: exit error
  */
 

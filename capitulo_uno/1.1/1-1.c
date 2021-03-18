@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *main- start with C
+ *main- print hello world 
  *Return: exit succesfull
  */
 

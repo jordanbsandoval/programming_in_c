@@ -1,2 +1,1 @@
 # Learning from book
-sd
